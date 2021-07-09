@@ -1,0 +1,12 @@
+{
+  "name": "FeedWPE",
+  "repo": "lsmullen/wpengine",
+  "region": "UK",
+  "environments": [
+    {
+      "name": "Production",
+      "branch": "master",
+      "wp_environment_name": "FeedWPE-Production"
+    }
+  ]
+}
